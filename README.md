@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and its frameworks**
 - 👯 I’m looking to collaborate on **AI & Data Science projects**
-- 💬 Ask me about **Python, SQL, Flask, and Data Analysis**
+- 💬 Ask me about **Python, SQL, Ai, ML, Data Analysis**
 - ⚡ Fun fact: **I enjoy learning new technologies through hands-on projects!**
 
 ---
@@ -50,20 +50,20 @@
     - **Suraj Phirke** - Ui/Ux
     - **Nihar Kore** - ML
     - **Dhruv Jain** - Backend
-    - **Om Sakhare(MySelf)** - Data Analysis
+    - **Om Sakhare(MySelf)** - Data Analyst
 
 
 ---
 
 ## **Hackathons Attended:**
+- **MegaHack6** - Organized by St.John college of Engg. and Tech, Palghar
+- **CodeVerse'2026'** - Organized by Bhausaheb Vartak College, Vasai
 - **Nirman 25** - Organized by Amity University Panvel & Odoo
-- **CodeVerse'23** - Organized by Bhausaheb Vartak College, Vasai 
-
+- **CodeVerse'23** - Organized by Bhausaheb Vartak College, Vasai
 ---
 
 ## **Currently Pursuing:**
-- **Basic Web Development**
-- **Data Science**
+- **B.Tech in Computer science and Engineeing in Data Science**
 
 ---
 
