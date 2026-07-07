@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Om+Mahesh+Sakhare's+Github+Profile)](https://git.io/typing-svg)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Arch-777&color=blueviolet&style=flat-square)
-<a><img src="https://img.shields.io/github/followers/Arch-777?label=Followers&style=social" alt="GitHub Badge"></a>
+![Visitor Count](https://komarev.com/ghpvc/?username=Arch-bytes&color=blueviolet&style=flat-square)
+<a><img src="https://img.shields.io/github/followers/Arch-bytes?label=Followers&style=social" alt="GitHub Badge"></a>
 
 # I'm a Tech Enthusiast & Aspiring Data Scientist! 🚀
 
