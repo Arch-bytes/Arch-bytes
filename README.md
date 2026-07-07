@@ -69,9 +69,11 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=Arch-777&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Arch-777&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-![](https://github-profile-trophy.vercel.app/?username=Arch-bytes&theme=radical&no-frame=false&no-bg=false&margin-w=2)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arch-bytes&theme=radical&no-frame=false&no-bg=false&margin-w=2" alt="GitHub Trophies" />
 </p>
 
 ---
