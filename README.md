@@ -69,7 +69,7 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arch-777&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arch-bytes&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
