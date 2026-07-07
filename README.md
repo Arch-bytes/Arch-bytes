@@ -69,7 +69,8 @@
 
 ## 🏆 **GitHub Trophies**
 <p align="center">
-
+![]([https://github-profile-trophy.vercel.app/?username=Arch-bytes&theme=radical&no-frame=false&no-bg=false&margin-w=2](https://streak-stats.demolab.com/?user=Arch-bytes&theme=radical))
+</p>
 ![](https://github-profile-trophy.vercel.app/?username=Arch-bytes&theme=radical&no-frame=false&no-bg=false&margin-w=2)
 </p>
 
